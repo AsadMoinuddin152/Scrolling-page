@@ -9,7 +9,8 @@ body
 {
     font-family: 'Roboto', sans-serif;
     display: flex;
-    background-color: #c6e9e9;
+    background: radial-gradient(circle, #eb39ff 0%, #30cdec 100%);
+    
     flex-direction: column;
     justify-content: center;
     align-items: center;
